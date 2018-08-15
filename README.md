@@ -5,4 +5,3 @@ This is a simple readme file.
 More stuff
 
 Fixing this in master.
-
