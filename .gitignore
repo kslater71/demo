@@ -1,1 +1,5 @@
 applicationLog.txt
+*.log
+*.orig
+
+
